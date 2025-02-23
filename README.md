@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hola, soy Quimey Salinas 👋
 
-<!--
-**QuimeySalinas/QuimeySalinas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenidos a mi GitHub! Soy un estudiante de ingenieria informatica apasionado por el **Desarrollo de Software**.
 
-Here are some ideas to get you started:
+## Acerca de mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 **Principal**: Desarrollo de Software 
+- 📍 **Ubicación**: Buenos Aires - Argentina  
+- 💼 **Puesto/trabajo actual**: Desarrollador trainee
+- 💬 **Pregúntame sobre**: Diseño gráfico, UX/UI, Guitarra Electrica, Fútbol  
+
+## Habilidades y Tecnologías
+
+Aquí tienes algunas de las herramientas y tecnologías con las que me encanta trabajar:
+ 
+- **Desarrollo**: HTML, CSS, JavaScript, C, C++
+- **Bases de Datos**: SQL, MySQL, MariaDB, PostgreSQL    
+- **Control de Versiones**: Git, GitHub  
+
+## Contacto
+
+- 📧 **Email**: [quimeysalinas@gmail.com](mailto:quimeysalinas@gmail.com)  
+- 💼 **LinkedIn**: [Quimey Salinas en LinkedIn](www.linkedin.com/in/quimey-salinas-aab6a6131)  
+<!--- 🌐 **Portfolio**: [En construcción...](#)  -->
+
+---
+
+Gracias por visitar mi perfil! 
+Podes explorar mis repositorios y no dudes en contactarme si queres colaborar en alguno de ellos!
