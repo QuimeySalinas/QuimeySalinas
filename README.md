@@ -7,13 +7,12 @@
 - 🎓 **Principal**: Desarrollo de Software 
 - 📍 **Ubicación**: Buenos Aires - Argentina  
 - 💼 **Puesto/trabajo actual**: Desarrollador trainee
-- 💬 **Pregúntame sobre**: Diseño gráfico, UX/UI, Guitarra Electrica, Fútbol  
 
 ## Habilidades y Tecnologías
 
 Aquí tienes algunas de las herramientas y tecnologías con las que me encanta trabajar:
  
-- **Desarrollo**: HTML, CSS, JavaScript, C, C++
+- **Desarrollo**: HTML, CSS, JavaScript, C, C++, Python
 - **Bases de Datos**: SQL, MySQL, MariaDB, PostgreSQL    
 - **Control de Versiones**: Git, GitHub  
 
