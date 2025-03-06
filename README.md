@@ -19,7 +19,7 @@ Aquí tienes algunas de las herramientas y tecnologías con las que me encanta t
 ## Contacto
 
 - 📧 **Email**: [quimeysalinas@gmail.com](mailto:quimeysalinas@gmail.com)  
-- 💼 **LinkedIn**: [Quimey Salinas en LinkedIn](www.linkedin.com/in/quimey-salinas-aab6a6131)  
+- 💼 **LinkedIn**: [Quimey Salinas](www.linkedin.com/in/quimey-salinas-aab6a6131)  
 <!--- 🌐 **Portfolio**: [En construcción...](#)  -->
 
 ---
