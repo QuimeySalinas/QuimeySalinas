@@ -10,7 +10,7 @@
 
 ## Habilidades y Tecnologías
 
-Aquí tienes algunas de las herramientas y tecnologías con las que me encanta trabajar:
+Algunas de las herramientas y tecnologías con las que me encanta trabajar:
  
 - **Desarrollo**: HTML, CSS, JavaScript, C, C++, Python
 - **Bases de Datos**: SQL, MySQL, MariaDB, PostgreSQL    
@@ -24,5 +24,4 @@ Aquí tienes algunas de las herramientas y tecnologías con las que me encanta t
 
 ---
 
-Gracias por visitar mi perfil! 
-Podes explorar mis repositorios y no dudes en contactarme si queres colaborar en alguno de ellos!
+Gracias por visitar mi perfil!
